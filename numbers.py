@@ -3,6 +3,7 @@
 #You can use this module in your own projects
 #Only import this file and call printnumber function
 
+
 def generate(num:int):
     
   list = []
@@ -12,9 +13,9 @@ def generate(num:int):
 
   list.pop(0)
   list.pop(num-2)
-  mssg=""
-  for x in list:
   
+  for x in list:
+    mssg=""  
     while num%x!=0:
       mssg = str(num)+" is prime"
 
@@ -45,5 +46,3 @@ def printnumber(numb:int):
         continue
     generate(x)
     
-
-printnumber(30)
