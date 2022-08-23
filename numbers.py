@@ -1,5 +1,7 @@
-#Python prime number script
+#Python prime numbers module
 #Author: Zakarias
+#You can use this module in your own projects
+#Only import this file and call printnumber function
 
 def generate(num:int):
     
