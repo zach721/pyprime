@@ -2,15 +2,14 @@
 Get prime numbers python module
 
 ```diff
-+ text in green
 #Just download this file
 #Call the printnumber function
 #Set the range limit
 
 
-import numbers
++import numbers
 
-numbers.printnumber(100)
++numbers.printnumber(100)
 
 #Save this file ex: pyprime.py 
 #In your terminal run " python3 pyprime.py "
