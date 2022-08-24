@@ -1,7 +1,7 @@
 # prime-numbers
 Get prime numbers python module
 
-```
+```diff
 #Just download this file
 #Call the printnumber function
 #Set the range limit
