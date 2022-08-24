@@ -4,7 +4,7 @@ Get prime numbers python module
 ```
 #Just download this file
 #Call the printnumber function
-#Then set the range limit
+#Set the range limit
 
 
 import numbers
