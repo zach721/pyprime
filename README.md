@@ -2,6 +2,7 @@
 Get prime numbers python module
 
 ```diff
++ text in green
 #Just download this file
 #Call the printnumber function
 #Set the range limit
