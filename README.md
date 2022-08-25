@@ -12,7 +12,7 @@ import numbers
 numbers.printnumber(100)
 
 #Save this file ex: pyprime.py 
-#In your terminal run " python3 pyprime.py "
+#In your terminal run " python3 pyprime.py " or "python pyprime.py"
 #Voila!
 #You will see all prime numbers between 1-100!
 ```
